@@ -7,4 +7,4 @@
 #### 模拟电子技术基础
 #### 电路原理
 
-<a href="https://www.baidu.com/">链接</a>
+<a href="https://www.baidu.com/">信号与系统</a>
