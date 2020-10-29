@@ -7,4 +7,4 @@
 #### 模拟电子技术基础
 #### 电路原理
 
-<a href="/index-en.html">英文版</a>
+<a href="http://www.imomoe.ai/">英文版</a>
